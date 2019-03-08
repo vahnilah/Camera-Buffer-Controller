@@ -1,13 +1,14 @@
 Camera Buffer Drag Controller
 ==========
 
-This script will set the camera to follow a player with a buffer towards the direction on a controller to show more of the area in level.
+This Unity script will set the camera to follow a player with a buffer towards the direction on a controller to show more of the area in level.
 
 This is useful for 2D or platformer games where you will want the camera to show what is ahead of the player towards the direction of the joystick.
 Settings can be adjusted to add to the buffer fast or slow and then decay back to the player at a linear rate or a variable setting.
 
-![gif](https://i.imgur.com/RHPi3Dm.gif)
+![gif](https://i.imgur.com/IEI8NQp.gif)
 ![gif](https://i.imgur.com/pKodWmi.gif)
+
 
 
 Installation
